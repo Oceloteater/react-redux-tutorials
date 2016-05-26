@@ -19,5 +19,8 @@ module.exports = {
                 }
             }
         ]
+    },
+    blah: {
+        blah: "blah"
     }
 }
